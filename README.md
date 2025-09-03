@@ -1,4 +1,4 @@
-# El archivo "paste.txt" contiene el código HTML de la página principal de un sitio de hotel llamado **HOTEL MEDIODIA** de Marbella, con amplia información sobre servicios, contacto y eventos.[1]
+
 
 ## Nombre y Ubicación del Hotel
 - El hotel se llama **HOTEL MEDIODIA** y está ubicado en **Marbella**.[1]
